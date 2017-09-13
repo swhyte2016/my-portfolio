@@ -1,2 +1,2 @@
-# my-portfolio
-my professional portfolio
+# Sheldon Whyte's Portfolio
+This is my professional portfolio. It uses AWS and ReactJS.
